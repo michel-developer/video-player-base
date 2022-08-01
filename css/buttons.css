@@ -1,0 +1,19 @@
+.button{
+    background-color: transparent;
+    border: none;
+    inline-size: 32px;
+    block-size: 32px;
+}
+#play{
+    background-image: url(../icons/icons8-circled_play\ 1.svg);
+}
+#pause{
+    background-image: url(../icons/icons8-pause_button\ 1.svg);
+}
+#adelantar{
+    background-image: url(../icons/icons8-reset\ 1.svg);
+
+}
+#retroceder{
+    background-image: url(../icons/icons8-reset\ 2.svg);
+}
